@@ -28,7 +28,6 @@
   - Java: ☕️
   - C++: 🗡️
   - Wireshark: 🕵️‍♂️
-  - Zeek (formerly Bro): 🎩
   - Parrot OS: 💀
   - Nessus: 🔍
   - Hashcat: 💻
@@ -37,13 +36,27 @@
   - Burp Suite: 🐛
   - Nmap: 🌎
   - Metasploit: 🔓
+  - ELK Stack: 📊
+  - Wazuh: 🛡️
+  - TheHive: 🐝
+  - Shuffle (SOAR): ♻️
+  - Git & GitHub: 🔧
+  - VS Code / Cursor IDE: 🧠
+  - Linux (Ubuntu, Kali): 🐧
+  - OPNsense Firewall: 🔐
+  - Cisco Switches: 📡
 
 
 ## 📁 Projects List
-- Stay Tuned, I'll push some project soon...
+- 🔧 Building a Cybersecurity Home Lab Link: https://117secops.com/projects/building-cybersecurity-home-lab/
+- ⚙️ SOC Automation Project Link: https://117secops.com/projects/soc-automation-project/
+- 📊 30-Day MYDFIR SOC Analyst Challenge Link: https://117secops.com/projects/30-day-mydfir-soc-analyst-challenge-part0/
+- 🖥️ Building a Full Hardware Cybersecurity Home Lab Link: https://117secops.com/projects/building-full-hardware-cybersecurity-homelab/
 
 ## 📂 Certifications and Licences
-- Stay Tuned, I'll drop an update on this later...
+- 📜 IBM IT Support Professional Certificate
+- 📜 Google IT Support Professional Certificate
+- 📜 Microsoft Security, Compliance, and Identity Fundamentals
 
 
 ## :phone: Contact Me
