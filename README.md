@@ -65,6 +65,12 @@
 🔗 [**www.117secops.com**](https://www.117secops.com)
 
 
+## 📬 Contact Me on LinkedIn
+
+💼 I'm always open to connecting with like-minded professionals, collaborators, and recruiters.  
+🔗 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/otori-samson/)
+
+
 
 ## :phone: Contact Me
 <p>
