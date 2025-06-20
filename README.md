@@ -72,18 +72,7 @@
 
 
 
-## :phone: Contact Me
-<p>
- 
-<img hight="320" width="450" align="right" alt="GIF" src="./assets/93195.gif">
 
-If you want to reach out to me about anything, heres my gmail and linkedin profile, just ping me 😉.
-
-<a href="mailto:pilotsamson@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="./assets/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/otori-samson/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="./assets/linkedin.png" />
 </br>
 </br>
 </br>
