@@ -2,7 +2,7 @@
 
 ## :book: About Me
 - 👨‍💻 Good experience in Software Engineering
-- 🎓 Studying MSc Cybersecurity 𝚊𝚝 EdgeHill University UK, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 May 2025
+- 🎓 Completed MSc Cybersecurity 𝚊𝚝 EdgeHill University UK, May 2025
 - 🎮 I play PC games.
 - by the way, i am a Parrot Sec lover. Parrot Security OS is the best OS for Hacking Period!!! [<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://parrotsec.org/)
 
