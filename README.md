@@ -57,6 +57,7 @@
 - 📜 IBM IT Support Professional Certificate
 - 📜 Google IT Support Professional Certificate
 - 📜 Microsoft Security, Compliance, and Identity Fundamentals
+- 📜 ISO/IEC 27001:2022 Lead Auditor
 
 
 ## 🌐 Check Out My Portfolio
